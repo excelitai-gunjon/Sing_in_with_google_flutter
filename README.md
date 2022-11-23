@@ -1,4 +1,4 @@
-# authentication_google
+# authentication_google using Firebase
 
 A new Flutter project.
 
